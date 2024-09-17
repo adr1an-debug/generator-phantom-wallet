@@ -130,7 +130,7 @@ with open("wallets.json", "a") as f:
         # Save data in the format: wallet_address:public_key:private_key:mnemonic_phrase
         f.write(f"{wallet_address}:{public_key}:{private_key}:{mnemonic_phrase}\n")
 
-print("done wygenerowane")
+print("5 Wallets Generated and saved to wallets.json")
 ```
 
 ### Requirements
