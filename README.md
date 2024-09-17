@@ -41,8 +41,8 @@ Ensure you have Python 3.7+ installed on your system for the script to work. Thi
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/phantom-wallet-generator.git
-    cd phantom-wallet-generator
+    git clone https://github.com/adr1an-debug/generator-phantom-wallet.git
+    cd generator-phantom-wallet
     ```
 
 2. Install the required dependencies:
@@ -80,8 +80,8 @@ There are two ways to install the required libraries:
 - **Installation from source (requires git):**
 
     ```bash
-    git clone https://github.com/yourusername/phantom-wallet-generator.git
-    cd phantom-wallet-generator
+    git clone https://github.com/adr1an-debug/generator-phantom-wallet.git
+    cd generator-phantom-wallet
     pip install .
     ```
 
