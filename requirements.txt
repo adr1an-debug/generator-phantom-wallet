@@ -1,0 +1,3 @@
+pynacl
+mnemonic
+base58
